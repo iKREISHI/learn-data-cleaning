@@ -69,4 +69,4 @@ yarn-error.log*
 *.log
 
 # ipynb
-*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
